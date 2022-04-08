@@ -7,9 +7,8 @@
 Clone this project.
 
 ```
-git clone https://github.com/tomasvicar/DeepFoci
+git clone https://github.com/7db9a/DeepFoci
 ```
-
 
 Download the data [data - zenodo](https://zenodo.org/record/4067741#.YYziP2DMJaQ) into the `DeepFoci/data_zenodo/` folder.
 
