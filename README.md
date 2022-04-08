@@ -11,7 +11,7 @@ git clone https://github.com/tomasvicar/DeepFoci
 ```
 
 
-Download the data [data - zenodo](https://zenodo.org/record/4067741#.YYziP2DMJaQ) into the `DeepFoci/data_zenoda/` folder.
+Download the data [data - zenodo](https://zenodo.org/record/4067741#.YYziP2DMJaQ) into the `DeepFoci/data_zenodo/` folder.
 
 The model can be ran using matlab, python, or docker.
 
